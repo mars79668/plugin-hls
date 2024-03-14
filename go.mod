@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/quangngotan95/go-m3u8 v0.1.0
 	go.uber.org/zap v1.26.0
-	m7s.live/engine/v4 v4.14.6
+	m7s.live/engine/v4 v4.15.2
 )
 
 require (
@@ -15,22 +15,15 @@ require (
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 )
 
-require (
-	github.com/abema/go-mp4 v1.1.1 // indirect
-	github.com/aler9/writerseeker v1.1.0 // indirect
-	github.com/asticode/go-astikit v0.30.0 // indirect
-	github.com/asticode/go-astits v1.13.0 // indirect
-	github.com/bluenviron/mediacommon v1.5.1
-)
+require github.com/bluenviron/mediacommon v1.5.1 // indirect
 
 require (
-	github.com/bluenviron/gohlslib v1.0.0
-	github.com/cnotch/ipchub v1.1.0 // indirect
+	github.com/deepch/vdk v0.0.27 // indirect
 	github.com/denisbrodbeck/machineid v1.0.1 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/golang/mock v1.6.0 // indirect
-	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38 // indirect
+	github.com/google/pprof v0.0.0-20230309165930-d61513b1440d // indirect
 	github.com/google/uuid v1.4.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20230326075908-cb1d2100619a // indirect
 	github.com/mcuadros/go-defaults v1.2.0 // indirect
